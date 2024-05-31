@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Gra_Klient.dir/main.c.o -o Gra_Klient 
